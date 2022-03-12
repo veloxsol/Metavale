@@ -1,7 +1,7 @@
 
 		
 		<div class="container-fluid px-md-5">
-			<div class="row justify-content-between">
+			
 				<div class="col-md-8 order-md-last">
 					<div class="row">
 						<div class="col-md-6 text-center">
@@ -28,4 +28,3 @@
 	        </div>
 				</div>
 			</div>
-		</div>
